@@ -1,0 +1,20 @@
+56 128 1200
+
+58
+flavor1 0
+flavor2 13
+flavor3 3
+flavor5 2
+flavor7 2
+flavor8 6
+flavor9 15
+flavor10 2
+flavor11 5
+flavor12 1
+flavor13 0
+flavor14 7
+flavor15 2
+CPU
+
+2015-02-20 00:00:00
+2015-02-27 00:00:00
